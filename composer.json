@@ -1,0 +1,16 @@
+{
+    "name": "hnhdigital-os/wkhtmltopdf-amd64-bionic-binaries",
+    "description": "wkhtmltopdf for Ubuntu 64-bit Bionic",
+    "keywords": ["wkhtmltopdf", "amd64", "linux", "64-bit"],
+    "authors": [
+        {
+            "name": "Rocco Howard",
+            "email": "rocco@hnh.digital"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf",
+        "bin/wkhtmltoimage"
+    ]
+}
